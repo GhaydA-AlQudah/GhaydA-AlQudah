@@ -77,10 +77,5 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GhaydA-AlQudah&show_icons=true&theme=default&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhaydA-AlQudah&layout=compact&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
   📫 Reach me at <b>ghayda.alqudah@gmail.com</b> · 🌍 Amman, Jordan
 </p>
