@@ -61,10 +61,15 @@
 ### 🛠️ Technical Skills
 
 **Programming:** C++, Python, Data Structures, Algorithms, OOP, Parallel Programming
+
 **AI & Machine Learning:** NLP, Computer Vision, RAG, TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy
+
 **Automation:** LLMs, Pydantic AI, Vector Databases, n8n, Agentic Workflows, Workflow Automation, ChromaDB
+
 **Data Analysis & BI:** Power BI, Tableau, SQL, Plotly, Matplotlib, Seaborn, Statistical Analysis, Storytelling
+
 **Databases & Data Modeling:** PostgreSQL, MySQL, Oracle, PL/SQL, ERD/EERD, Database Normalization, Schema Design
+
 **Tools:** Git, GitHub, Docker, VS Code, Linux (Ubuntu, Kali), Windows, VMware
 
 ---
