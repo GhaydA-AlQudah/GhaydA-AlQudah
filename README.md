@@ -2,7 +2,7 @@
 <h3 align="center">AI Engineer | Automation & Analytics</h3>
 
 <p align="center">
-  Recent Computer Engineering graduate specializing in building AI-powered systems — RAG-based agents, intelligent automation workflows, and data analytics solutions.
+  Recent Computer Engineering graduate specializing in building AI-powered systems — RAG-based agents, intelligent automation workflows, and data analytics solutions. Azure Certified (AZ-900), with hands-on experience applying Generative AI and automation to solve real-world problems.
 </p>
 
 <p align="center">
@@ -12,53 +12,60 @@
 
 ---
 
-### 🚀 About Me
+### 🎓 Education
+**Bachelor of Computer Engineering** — Yarmouk University, Irbid
+`Sep 2019 – Jun 2025`
 
-- 🎓 B.Sc. in Computer Engineering — Yarmouk University
-- ☁️ Microsoft Azure Certified (AZ-900)
-- 🤖 Hands-on experience with RAG agents, LLM-driven automation, and AI backend systems
-- 📊 Also skilled in Business Intelligence & data analytics (Power BI, DAX, ETL)
-- 🌱 Currently exploring: production-grade AI agent architectures & workflow orchestration
+### 📜 Certifications
+**Microsoft Azure Fundamentals (AZ-900)** — Microsoft `Jun 2026`
 
 ---
 
-### 🛠️ Tech Stack
+### 💼 Experience
 
-**AI & Machine Learning**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![LangChain](https://img.shields.io/badge/RAG%20%2F%20LLMs-4B8BBE?style=flat)
+**AI Developer Intern** — Kayan HR Solution | Amman `Nov 2025 – Jan 2026`
+- Developed and integrated AI-powered backend components into recruitment systems
+- Implemented backend workflow orchestration using n8n, RAG architecture, and vector databases
 
-**Automation & Backend**
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-
-**Data & BI**
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-
-**Tools**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+**Data Scientist Intern** — Tahaluf Al Emarat Technical Solutions | Remote `Oct 2024 – Mar 2025`
+- Applied statistical analysis and machine learning techniques to clean, analyze, and model complex datasets
+- Implemented, tuned, and evaluated machine learning models across 4 Kaggle competitions
 
 ---
 
 ### 📌 Featured Projects
 
 **[🛡️ Automated SOC Alert Triage & Monitoring System](https://github.com/GhaydA-AlQudah/Automated_SOC_Alert_Triage_and_Monitoring_System)**
-AI-driven SOC workflow (n8n + Pydantic AI + RAG) automating alert enrichment, threat intelligence correlation, and triage — reducing alert fatigue by filtering false positives at the source.
+- Engineered an AI-driven SOC workflow transforming the alert lifecycle: manual investigation → automated enrichment (AbuseIPDB + VirusTotal) → AI-assisted triage (Pydantic AI + RAG) → human escalation only when needed
+- Developed FastAPI + PostgreSQL services and Grafana dashboards for auditable alert tracking and visibility into alert volume, TP/FP rates, and attack patterns
+- Reduced alert fatigue at its root — automatically filtering false positives so analysts focus on alerts that genuinely require action
+- **Tech:** Pydantic AI, n8n, FastAPI, RAG, ChromaDB, PostgreSQL, Grafana, AbuseIPDB, VirusTotal
 
 **[🤖 HR Assistant – Telegram Bot](https://github.com/GhaydA-AlQudah/HR_Assistant-TelegramBot)**
-Intelligent HR assistant with secure role-based access and prompt-injection protection, automating onboarding, leave management, and document generation.
+- Built an intelligent HR assistant (Telegram Bot API + Pydantic AI) with secure role-based access, automating onboarding, leave management, and PDF generation through a modular API → Service → DB architecture (PostgreSQL)
+- Implemented prompt-injection protection and controlled LLM intent routing, ensuring reliable, secure responses in a system handling sensitive employee data
+- **Tech:** Pydantic AI, PostgreSQL, Telegram Bot API, LLMs, OOP
 
 **[📄 OCR Parser](https://github.com/GhaydA-AlQudah/Resumes_OCR_Parsing)**
-End-to-end document parsing pipeline (PaddleOCR + DocLing + LLaMA-3.3-70B) extracting structured data from multilingual, scanned, and image-based documents.
+- Built an end-to-end document parsing system extracting structured data from multilingual PDFs, scanned documents, and image-based resumes — combining an OCR pipeline (PaddleOCR + DocLing) with LLaMA-3.3-70B-based semantic parsing to generate reliable, validated JSON outputs (Pydantic)
+- Designed a FastAPI backend with JWT authentication and a Streamlit interface for interactive testing, using ngrok for remote access and collaboration
+- **Tech:** PaddleOCR, DocLing, LLaMA-3.3-70B-Instruct, Pydantic, FastAPI, Streamlit, JWT, ngrok
 
 **[📊 Career Compass USA Dashboard](https://github.com/GhaydA-AlQudah/Career-Compass-USA-Power-BI-Dashboard)**
-Interactive Power BI dashboard analyzing 17K+ job postings, turning fragmented job-market data into a single, evidence-based decision-making view.
+- Developed an interactive Power BI dashboard analyzing 17K+ job postings, salary trends, and hiring patterns across U.S. Data and AI sectors, built on a Star Schema data model with advanced DAX measures and optimized ETL pipelines (Power Query)
+- Turned scattered, assumption-based job-market data into a single data-driven view — helping job seekers compare salaries, demand, and skills across U.S. states to make evidence-based career decisions
+- **Tech:** Power BI, Power Query, DAX, Data Modeling, ETL
+
+---
+
+### 🛠️ Technical Skills
+
+**Programming:** C++, Python, Data Structures, Algorithms, OOP, Parallel Programming
+**AI & Machine Learning:** NLP, Computer Vision, RAG, TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy
+**Automation:** LLMs, Pydantic AI, Vector Databases, n8n, Agentic Workflows, Workflow Automation, ChromaDB
+**Data Analysis & BI:** Power BI, Tableau, SQL, Plotly, Matplotlib, Seaborn, Statistical Analysis, Storytelling
+**Databases & Data Modeling:** PostgreSQL, MySQL, Oracle, PL/SQL, ERD/EERD, Database Normalization, Schema Design
+**Tools:** Git, GitHub, Docker, VS Code, Linux (Ubuntu, Kali), Windows, VMware
 
 ---
 
@@ -70,5 +77,5 @@ Interactive Power BI dashboard analyzing 17K+ job postings, turning fragmented j
 </p>
 
 <p align="center">
-  📫 Reach me at <b>ghayda.alqudah@gmail.com</b>
+  📫 Reach me at <b>ghayda.alqudah@gmail.com</b> · 🌍 Amman, Jordan
 </p>
