@@ -74,8 +74,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
 <p align="center">
   📫 Reach me at <b>ghayda.alqudah@gmail.com</b> · 🌍 Amman, Jordan
 </p>
